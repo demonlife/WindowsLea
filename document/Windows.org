@@ -11,3 +11,14 @@
   10. 之后编译该项目，就可以使用lua了
 * Windows磁盘分区对齐
   https://community.emc.com/docs/DOC-18571
+* windows 开发环境配置
+  http://jianshu.io/p/aa19380828bd
+** conemu + clink
+   https://code.google.com/p/conemu-maximus5/
+   一个替代cmd的控制终端
+** gow
+   将linux下的ls, cat, tail 等常用命令进行了打包安装。
+   https://github.com/bmatzelle/gow
+** TDM-GCC
+   http://tdm-gcc.tdragon.net/
+   
